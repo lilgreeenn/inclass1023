@@ -1,0 +1,70 @@
+{
+    "roster": [
+      {
+        "first_name": "Devin",
+        "last_name": "Booker",
+        "age": 27,
+        "college_team": "Kentucky",
+        "years_active": 8,
+        "stats": {
+          "points_per_game": 27.1,
+          "rebounds_per_game": 5.0,
+          "assists_per_game": 6.5
+        },
+        "image_url": "https://example.com/images/devin_booker.jpg"
+      },
+      {
+        "first_name": "Kevin",
+        "last_name": "Durant",
+        "age": 36,
+        "college_team": "Texas",
+        "years_active": 16,
+        "stats": {
+          "points_per_game": 26.4,
+          "rebounds_per_game": 7.1,
+          "assists_per_game": 5.2
+        },
+        "image_url": "https://example.com/images/kevin_durant.jpg"
+      },
+      {
+        "first_name": "Bradley",
+        "last_name": "Beal",
+        "age": 31,
+        "college_team": "Florida",
+        "years_active": 11,
+        "stats": {
+          "points_per_game": 23.0,
+          "rebounds_per_game": 4.4,
+          "assists_per_game": 5.0
+        },
+        "image_url": "https://example.com/images/bradley_beal.jpg"
+      },
+      {
+        "first_name": "Deandre",
+        "last_name": "Ayton",
+        "age": 26,
+        "college_team": "Arizona",
+        "years_active": 5,
+        "stats": {
+          "points_per_game": 18.0,
+          "rebounds_per_game": 10.1,
+          "assists_per_game": 1.8
+        },
+        "image_url": "https://example.com/images/deandre_ayton.jpg"
+      },
+      {
+        "first_name": "Chris",
+        "last_name": "Paul",
+        "age": 39,
+        "college_team": "Wake Forest",
+        "years_active": 18,
+        "stats": {
+          "points_per_game": 14.5,
+          "rebounds_per_game": 4.6,
+          "assists_per_game": 9.0
+        },
+        "image_url": "https://example.com/images/chris_paul.jpg"
+      }
+    ]
+  }
+  
