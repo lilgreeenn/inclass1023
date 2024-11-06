@@ -1,6 +1,13 @@
 import express from 'express';
 const app = express();
 const PORT = 3000;
+import cors from 'cors';
+import path from 'path';
+
+app.use(cors({
+  origin: '*'
+}));
+
 
 app.use(express.json());
 
